@@ -1,0 +1,51 @@
+body {
+    background-color: #646060;
+    background-image: url('/assets/img/black_burger.jpg');
+}
+
+img {
+    height: 35%;
+    width: 35%;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.jumbotron {
+    background-color: #E6DE89;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+ul {
+    list-style-image: url('/assets/img/cartoon-50x50.jpg');
+    list-style-position: inside;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Gravitas One', cursive;
+}
+
+h1 {
+    font-size: 75px;
+    font-family: 'Ewert', cursive;
+}
+h2 {
+    text-decoration: underline;
+    font-family: 'Bungee Shade', cursive;
+}
+
+.form-group {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Gravitas One', cursive;
+}
+
+button {
+    font-size: 20px;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Gravitas One', cursive;
+}
